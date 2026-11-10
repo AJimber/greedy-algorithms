@@ -33,7 +33,7 @@ El programa ordena los materiales por precio de mayor a menor, utiliza todo el v
 ## Requisitos
 
 - CMake 3.16 o posterior.
-- Un compilador compatible con C++11, como GCC o Clang.
+- Un compilador compatible con C++11.
 
 ## Compilación y ejecución
 
@@ -73,7 +73,6 @@ greedy-algorithms/
 └── README.md
 ```
 
-`sistemamonetarioresrestringido.txt` es una copia con la grafía utilizada en las instrucciones de entrega; el programa lee `sistemamonetariorestringido.txt`.
 
 ## Casos de prueba
 

@@ -13,7 +13,6 @@ using namespace std;
 void cambioRestringido(int cantidad, vector<MonedaRestringida> sistemaMonetarioRestringido, vector<int>& solucion)
 {
 	size_t i = 0;
-	MonedaRestringida aux;
 	while(i < sistemaMonetarioRestringido.size())
 	{
 		int moneda = sistemaMonetarioRestringido[i].getValor();
